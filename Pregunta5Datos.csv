@@ -1,0 +1,34 @@
+2
+7
+Lima
+New-York
+CDMX
+Toronto
+Jeddah
+Abu-Dhabi
+Doha
+11
+Lima New-York 850
+Lima CDMX 850
+New-York CDMX 880
+New-York Toronto 250
+CDMX Toronto 420
+New-York Jeddah 2000
+Jeddah Abu-Dhabi 300
+Toronto Abu-Dhabi 1200
+New-York Abu-Dhabi 1800
+Abu-Dhabi Doha 620
+New-York Doha 3000
+1
+5
+Lima
+BsAs
+Asunción
+Sao-Paulo
+Doha
+4
+Lima BsAs 600
+BsAs Asunción 250
+Asunción Sao-Paulo 550
+Sao-Paulo Doha 2000
+3
